@@ -9,7 +9,7 @@ body {
   font-size: 14px;
 }
 header {
-  background-image: url("/htmlcss/Lesson4/I0043.github.io/mn_sora_yoru_14.jpg");
+  background-image: url("mn_sora_yoru_14.jpg");
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
