@@ -78,6 +78,10 @@ table {
 
 thead {
   background:#5882FA;
+  font-size: 20px;
+  font-family: "MSゴシック";
+  color: white;
+  font-weight: bold;
 }
 
 tr:nth-child(even){
