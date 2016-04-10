@@ -67,6 +67,11 @@ nav ul li a.selected {
   margin-bottom: 30px;
   background-color: #fff;
 }
+
+.mycenter {
+  text-align: center;
+}
+
 table {
   width:66.66666667%;
 }
